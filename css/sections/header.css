@@ -19,16 +19,17 @@
     z-index: -1;
 }
 
-.header__logo h4 {
+.header__logo h1 {
     padding-left: 30px;
     color: #ffffff;
+    font-family: var(--playfair-display);
 }
 
 .header__menu,
 .header__menu-mobile {
   padding: 20px;
 
-  flex: 1.235;
+  flex: 1.236;
   display: flex;
   justify-content: flex-end;
   align-items: center;

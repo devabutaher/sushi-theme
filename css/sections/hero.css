@@ -80,7 +80,6 @@
   border-radius: 36px;
   outline: none;
   background: var(--secondary-color);
-
   cursor: pointer;
   color: #fff;
   font-weight: 500;
@@ -94,7 +93,6 @@
   background: transparent;
   display: flex;
   align-items: center;
-
   font-size: 16px;
   line-height: 19px;
   color: var(--black-200);
